@@ -3,7 +3,7 @@
 - 🌟 I'm a Full Stack Developer and Computational Linguist
 - 🎓 Over 2 years of experience in IT
 
-📬 **Contact me at**:
+📬 **Contact me at:**
 [dev.amandagonzaga@gmail.com](mailto:dev.amandagonzaga@gmail.com) | 
 [LinkedIn](https://linkedin.com/in/amandafgonzaga) 
 
@@ -12,7 +12,7 @@
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amandafgonzaga&layout=compact&theme=radical)
 
 
-## 🛠️ Languages and Tools:
+**Languages and Tools:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
